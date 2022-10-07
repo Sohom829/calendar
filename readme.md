@@ -19,11 +19,11 @@ you can use two application to unzip
 Simply right click on Calender-Setup.zip
 and select **Show more options** then select **Send to** and again select **Compressed (zipped) folder**
 
-### 1.
+### 1
 
 ![show-more-option](https://cdn.discordapp.com/attachments/999649912511807552/1027994467019542699/unknown.png)
 
-### 2.
+### 2
 
 ![steps](https://cdn.discordapp.com/attachments/999649912511807552/1027994545654349864/Screenshot_2022-10-07_232219.png)
 
@@ -37,11 +37,11 @@ First of all you have to download WinRar from [here](https://www.win-rar.com/pre
 
 After installing WinRar you just have to right-click on **Calendar-Setup.zip** and select **Show more options** then select **Extract Here**
 
-### 1.
+### 1
 
 ![show-more-option](https://cdn.discordapp.com/attachments/999649912511807552/1027994467019542699/unknown.png)
 
-### 2.
+### 2
 
 ![Extract-Here](https://cdn.discordapp.com/attachments/999649912511807552/1027996612095643658/unknown.png)
 
